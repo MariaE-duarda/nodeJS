@@ -23,9 +23,9 @@
 
 ## Prerequisites
 
-- npm >=5.5.0
-- node >=9.3.0
-- express ^4.18.2
+- ``npm >=5.5.0``
+- ``node >=9.3.0``
+- ``express ^4.18.2``
 
 ## Install
 
@@ -61,3 +61,10 @@ This project is [ISC](https://github.com/MariaE-duarda/nodeJs/blob/master/LICENS
 
 ***
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+
+
+<p align="center">done with 💖 per:</p>
+
+<div align="center">
+<img height="70" src="https://avatars.githubusercontent.com/u/95583989?v=4" />
+</div>
